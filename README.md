@@ -8,8 +8,11 @@ isso e uma souse de um aterrorizador de imagens yiffs e furrys
 ## inicicando o projeto
 
 1- clone esse repositório
+
 2- va no index.js
+
 3- inicie o projeto
+
 4- pronto!
 
 ---
