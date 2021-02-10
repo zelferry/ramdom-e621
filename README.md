@@ -25,6 +25,8 @@ const E = require("./e621.js");
 var yiff = E.e621DB("loona_(vivzmind)");//imagens da loona, e so alterar o valor
 console.log(yiff);
 ```
+infelizmente o arquivo `e621.js` não pode ser usado em bots do discord :(
+
 
 caso vc queira alterar, modificar ou aprimorar esse repositório vc ten asesso a isso! 
 
