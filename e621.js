@@ -20,9 +20,9 @@ class e621 {
          salvar.push(result.file.url)
   fs.writeFile('file.json', JSON.stringify(salvar), function (err) {
      if (err) throw err
-  });}).catch((err) => {console.error(err);});
-			const retornar = `resultado encontrado para ${searchTerms} cheque no arquivo file.json ou aqui na area de logs`
-			return retornar
+   });
+	});
+	return "codigo feito lo zelferry"
   }
 }
 module.exports = e621;

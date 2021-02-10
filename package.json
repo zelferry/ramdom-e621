@@ -1,0 +1,24 @@
+{
+  "name": "ramdom-e621",
+  "version": "1.0.0",
+  "description": "Ola!!! isso e uma souse de um aterrorizador de imagens yiffs e furrys",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelferry/ramdom-e621.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zelferry/ramdom-e621/issues"
+  },
+  "homepage": "https://github.com/zelferry/ramdom-e621#readme"
+}
